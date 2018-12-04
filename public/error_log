@@ -1,0 +1,10 @@
+[11-May-2018 09:20:13 America/Toronto] PHP Fatal error:  Call to a member function get() on null in /home/usisandbox/public_html/_scan/_clients/usi/app/Http/Controllers/ScansController.php on line 22
+[11-May-2018 09:59:09 America/Toronto] PHP Fatal error:  Function name must be a string in /home/usisandbox/public_html/_scan/_clients/usi/app/Http/Controllers/ScansController.php on line 140
+[11-May-2018 09:59:42 America/Toronto] PHP Fatal error:  Function name must be a string in /home/usisandbox/public_html/_scan/_clients/usi/app/Http/Controllers/ScansController.php on line 140
+[11-May-2018 10:00:22 America/Toronto] PHP Fatal error:  Function name must be a string in /home/usisandbox/public_html/_scan/_clients/usi/app/Http/Controllers/ScansController.php on line 140
+[11-May-2018 10:03:36 America/Toronto] PHP Fatal error:  Function name must be a string in /home/usisandbox/public_html/_scan/_clients/usi/app/Http/Controllers/ScansController.php on line 140
+[08-Aug-2018 09:09:14 America/Toronto] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/usisandbox/public_html/_scan/_clients/usi/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[08-Aug-2018 09:34:52 America/Toronto] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/usisandbox/public_html/_scan/_clients/usi/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[08-Aug-2018 09:36:38 America/Toronto] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/usisandbox/public_html/_scan/_clients/usi/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[10-Oct-2018 09:36:19 America/Toronto] PHP Parse error:  syntax error, unexpected '<' in /home/usisandbox/public_html/_scan/_clients/usi/storage/framework/views/e649f3c3aac2d3703c872ef90b44e38482e6cbe0.php on line 76
+[10-Oct-2018 09:36:44 America/Toronto] PHP Parse error:  syntax error, unexpected '<' in /home/usisandbox/public_html/_scan/_clients/usi/storage/framework/views/e649f3c3aac2d3703c872ef90b44e38482e6cbe0.php on line 76

@@ -1,0 +1,37 @@
+.pagination {
+	margin-top: 20px;
+}
+.pagination li {
+	border-top: 1px solid #333;
+	border-bottom: 1px solid #333;
+	border-left: 1px solid #333;
+	background-color:#fff;
+}
+
+.pagination a, .pagination span{
+	padding: 5px 10px;
+	color: #333;
+	float: left;
+	text-decoration: none;
+	-webkit-transition: background-color .15s; /* For Safari 3.1 to 6.0 */
+	transition: background-color .15s;
+}
+
+.pagination a:hover, .pagination span:hover {
+	background-color: #666;
+	color: #fff;
+}
+
+.pagination li:first-child {
+	border-radius: 4px 0 0 4px;
+}
+
+.pagination li:last-child {
+	border-radius: 0 4px 4px 0;
+	border-right: 1px solid #333;
+}
+
+.pagination li.active span {
+	color: #fff !important;
+	background-color: #333;
+}
